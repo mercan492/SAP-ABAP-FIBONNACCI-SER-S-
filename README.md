@@ -37,3 +37,6 @@ Fibonacci Serisi : 8 eleman
 Geliştiren: Mercan Köseoğlu   21.08.2025
 
 Data Analyst & SAP ABAP Consultant
+
+![abap-fibonacci-generator 3jpg](https://github.com/user-attachments/assets/d6b570fc-b3ad-498f-b13f-4cd8ea7435c2)
+

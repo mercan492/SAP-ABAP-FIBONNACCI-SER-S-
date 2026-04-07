@@ -1,0 +1,20 @@
+*& Report Z_DONGULER
+*AUTOR:Mercan KÖSEOĞLU DATE: 21.08.2025
+*&
+*'Fibonnacci Serisi
+REPORT Z_DONGULE NO STANDARD PAGE HEADING.
+
+PARAMETERS: p_count TYPE i DEFAULT 10.
+
+DATA:lv_first TYPE i VALUE 0 ,
+     lv_second  TYPE i VALUE 1,
+     lv_next TYPE i.
+
+WRITE: / 'Fibonnacci Serisi :',p_count, 'eleman'.
+
+DO p_count TIMES.
+ WRITE: lv_first,' '.
+        lv_next = lv_first + lv_second.
+        lv_first = lv_second.
+        lv_second = lv_next.
+ENDDO.

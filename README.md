@@ -1,4 +1,4 @@
-#abap-fibonacci-generator
+ABAP: Fibonacci Series Generator 🔢
 
 Matematiksel düşünce yapısını programlama mantığıyla birleştiren bu rapor, kullanıcının belirlediği adet kadar Fibonacci sayısını (0, 1, 1, 2, 3, 5, 8, ...) hesaplar. Program, değişken yönetimi ve döngüsel işlemler (iteration) konusunda temel bir yetkinlik göstergesidir.
 
